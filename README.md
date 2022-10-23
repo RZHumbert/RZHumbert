@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hey there 👋
 
-I am a Full Stack Engineer in the Greater New York City Area 
+I'm Zach. I'm a full-stack engineer in the greater New York City area.  
+
+- I'm currently working on solving Tech Debt for my company's flagship product
+- I'm currently studying serverless technologies and ethical hacking
+- I would love to dive into React and Material UI
+- Ask me about nuclear physics and technology, puzzles, or classic video games.   
 
 <!--
 **RZHumbert/RZHumbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
