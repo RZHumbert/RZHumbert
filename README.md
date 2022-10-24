@@ -2,25 +2,10 @@
 
 I'm Zach. I'm a full-stack engineer in the greater New York City area.  
 
-- I'm currently working on solving Tech Debt for my company's flagship product
+- I'm currently working on mitigating Tech Debt for one of the company's flagship products
 - I'm currently studying serverless technologies and ethical hacking
 - I would love to dive into React and Material UI
 - Ask me about nuclear physics and technology, puzzles, or classic video games.   
-
-<!--
-**RZHumbert/RZHumbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 
@@ -41,8 +26,6 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" title="VisualBasic6" alt="VB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <br>
-  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="40"/>
